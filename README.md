@@ -1,2 +1,3 @@
 # littlebear
-little bear
+This is little bear 
+Branch for init
