@@ -2,7 +2,7 @@ package com.gjg.bear;
 
 public class Test {
 
-    private int mmm;
+    private int mm;
 
     public Test(){
         int i;
